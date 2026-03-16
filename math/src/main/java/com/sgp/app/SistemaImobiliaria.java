@@ -55,7 +55,7 @@ public class SistemaImobiliaria {
 
     }
 
-    // método para cadastrar um novo imóvel
+    // método pra cadastrar um novo imóvel
     public static void cadastrarImovel() {
 
         String endereco = Validacoes.lerString("Endereço: ");
@@ -71,7 +71,7 @@ public class SistemaImobiliaria {
         System.out.println("Imóvel cadastrado com sucesso!");
     }
 
-    // método para listar todos os imóveis
+    // método pra listar todos os imóveis
     public static void listarImoveis() {
 
         // verifica se a lista ta vazia
@@ -86,7 +86,7 @@ public class SistemaImobiliaria {
         }
     }
 
-    // método para procurar um imóvel pelo endereço
+    // método pra procurar um imóvel pelo endereço
     public static void buscarImovel() {
 
         String endereco = Validacoes.lerString("Digite o endereço: ");
