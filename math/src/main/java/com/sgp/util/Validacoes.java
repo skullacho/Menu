@@ -1,4 +1,4 @@
-package com.SGP.util;
+package com.sgp.util;
 
 import java.util.Scanner;
 
