@@ -1,4 +1,4 @@
-package com.SGP.model;
+package com.sgp.model;
 
 // representa um imóvel da imobiliária
 public class Imovel {
