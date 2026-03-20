@@ -1,7 +1,7 @@
-package com.SGP.app;
+package com.sgp.app;
 
-import com.SGP.model.Imovel;
-import com.SGP.util.Validacoes;
+import com.sgp.model.Imovel;
+import com.sgp.util.Validacoes;
 
 import java.util.ArrayList;
 
